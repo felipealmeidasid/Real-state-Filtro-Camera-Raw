@@ -1,0 +1,4 @@
+interface:
+  display_name: "Camera Raw Archviz"
+  short_description: "Cinematic Camera Raw settings for property images"
+  default_prompt: "Use $real-estate-camera-raw para analisar estas imagens e sugerir valores exatos no Camera Raw com visual imobiliário cinematográfico e realista."
